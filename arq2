@@ -1,0 +1,44 @@
+
+
+
+i1
+i2
+i3
+i4
+
+
+
+
+
+
+
+
+busca - verifica waw
+emite
+le operandos
+executa
+escreve - verificar war
+
+
+
+
+busca(i1)
+if (i1 tem waw ativa){
+	nao pode ser emitida
+}
+else{
+	emite(i1)
+	busca(i2)
+}
+
+
+
+
+
+system.cpu.issueRate                         2.474259                       # Inst issue rate ((Count/Cycle))
+system.cpu.fuBusy                              847567                       # FU busy when requested (Count)
+system.cpu.fuBusyRate                        0.014569                       # FU busy rate (busy events/executed inst) ((Count/Count))
+
+
+system.cpu.ipc                               1.248063                       # IPC: Instructions Per Cycle ((Count/Cycle))
+
